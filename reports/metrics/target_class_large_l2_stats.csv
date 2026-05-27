@@ -1,0 +1,27 @@
+target_class_l2,activity_records,unique_molecules,unique_targets,mean_pchembl,median_pchembl,min_pchembl,max_pchembl
+Oxidoreductase,96529,54830,534,6.683354743134188,6.59,5.0,11.0
+Hydrolase,90437,53438,745,6.71608766323518,6.52,5.0,11.0
+Transferase,83118,49273,685,6.878181982242113,6.8,5.0,11.0
+Lyase,47831,11177,119,7.097333528464803,7.16,5.0,11.0
+Toll-like and Il-1 receptors,22542,6246,12,7.30800505722651,7.54,5.0,11.0
+Ligase,6406,5488,129,6.712705276303465,6.66,5.0,11.0
+Isomerase,7336,5170,94,6.86873636859324,6.7,5.0,11.0
+Family A G protein-coupled receptor,6277,3991,42,7.15226382029632,7.0,5.0,11.0
+Kinase,2968,2598,5,5.5890296495956875,5.49,5.0,7.96
+Phosphatase,3797,2306,26,6.47658414537793,6.24,5.0,11.0
+Aminoacyltransferase,1452,1084,5,6.501990358126721,6.28,5.0,10.28
+Fatty acid binding protein family,1415,725,10,6.382226148409894,6.25,5.0,10.0
+Calcium channel auxiliary subunit alpha2delta family,1040,711,5,6.34614423076923,6.52,5.0,9.0
+Phosphodiesterase,850,708,11,6.2476352941176465,6.015,5.0,8.89
+Transmembrane 1-electron transfer carriers,386,273,8,6.383730569948186,6.39,5.0,9.77
+Group translocator,173,170,1,5.746994219653179,5.67,5.0,7.8
+Electrochemical transporter,106,88,4,5.496037735849057,5.25,5.0,9.0
+Nuclear receptor,54,52,3,6.4275925925925925,6.34,5.02,8.89
+Frizzled family G protein-coupled receptor,64,40,5,8.643593749999999,8.765,5.68,10.77
+Reader,84,38,4,6.528214285714286,6.67,5.05,8.18
+Cytochrome P450,20,15,3,6.419,6.395,5.2,7.82
+Family B G protein-coupled receptor,12,12,2,5.495,5.48,5.3,5.69
+Protease,11,10,2,6.637272727272728,7.19,5.3,7.52
+Family C G protein-coupled receptor,6,3,1,5.166666666666667,5.21,5.03,5.26
+Slow voltage-gated potassium channel accessory protein family,1,1,1,5.85,5.85,5.85,5.85
+Sodium channel auxiliary subunit beta family,1,1,1,6.0,6.0,6.0,6.0

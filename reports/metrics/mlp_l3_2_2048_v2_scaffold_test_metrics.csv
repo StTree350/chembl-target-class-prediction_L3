@@ -1,0 +1,2 @@
+run_name,version,split_type,best_epoch,best_val_macro_f1,total_training_time_minutes,test_loss,test_accuracy,test_balanced_accuracy,test_macro_f1,test_weighted_f1,test_macro_precision,test_macro_recall,test_log_loss,test_samples
+mlp_l3_2_2048_v2_scaffold,v2_scaffold,greedy_scaffold_split,24,0.9827146754554031,0.35185404221216837,0.0839799575089253,0.9856115107913669,0.9786273292472699,0.9801771949571388,0.9855661490699864,0.9819751453884357,0.9786273292472699,0.05619690904845971,12510

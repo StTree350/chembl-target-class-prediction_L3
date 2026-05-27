@@ -1,0 +1,37 @@
+split,samples,fraction,unique_classes,class_id,class_name,fraction_within_split
+train,27209,0.5211753213170648,11.0,,,
+train,6781,,,0.0,Bromodomain,0.24921900841633282
+train,3892,,,1.0,P2X receptor,0.1430409055827116
+train,4791,,,2.0,Voltage-gated sodium channel,0.17608144363997208
+train,4311,,,3.0,Transient receptor potential channel,0.1584402219853725
+train,1588,,,4.0,Protein methyltransferase,0.05836304164063361
+train,1300,,,5.0,Serine protease,0.047778308647873864
+train,1190,,,6.0,Voltage-gated calcium channel,0.043735528685361465
+train,1178,,,7.0,Plant homeodomain,0.043294498143996475
+train,820,,,8.0,Protein Kinase,0.030137086993274283
+train,647,,,9.0,Pore-forming toxins (proteins and peptides),0.023778896688595685
+train,711,,,10.0,5HT3 receptor,0.02613105957587563
+validation,12488,0.23920163962686997,11.0,,,
+validation,1508,,,0.0,Bromodomain,0.12075592568866111
+validation,4043,,,1.0,P2X receptor,0.32375080076873797
+validation,2593,,,2.0,Voltage-gated sodium channel,0.20763933376041
+validation,1934,,,3.0,Transient receptor potential channel,0.1548686739269699
+validation,380,,,4.0,Protein methyltransferase,0.030429212043561818
+validation,600,,,5.0,Serine protease,0.048046124279308135
+validation,232,,,6.0,Voltage-gated calcium channel,0.018577834721332478
+validation,266,,,7.0,Plant homeodomain,0.021300448430493273
+validation,583,,,8.0,Protein Kinase,0.046684817424727736
+validation,269,,,9.0,Pore-forming toxins (proteins and peptides),0.021540679051889815
+validation,80,,,10.0,5HT3 receptor,0.0064061499039077515
+test,12510,0.23962303905606527,11.0,,,
+test,2374,,,0.0,Bromodomain,0.18976818545163868
+test,2372,,,1.0,P2X receptor,0.18960831334932055
+test,2085,,,2.0,Voltage-gated sodium channel,0.16666666666666666
+test,2305,,,3.0,Transient receptor potential channel,0.18425259792166268
+test,623,,,4.0,Protein methyltransferase,0.04980015987210232
+test,629,,,5.0,Serine protease,0.050279776179056754
+test,614,,,6.0,Voltage-gated calcium channel,0.04908073541167066
+test,577,,,7.0,Plant homeodomain,0.04612310151878497
+test,179,,,8.0,Protein Kinase,0.014308553157474022
+test,478,,,9.0,Pore-forming toxins (proteins and peptides),0.03820943245403677
+test,274,,,10.0,5HT3 receptor,0.021902478017585932

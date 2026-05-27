@@ -1,0 +1,14 @@
+metric,value
+raw_activity_records,1883939
+raw_unique_molecules,884326
+records_with_l3_class,103736
+unique_molecules_with_l3_class,57372
+all_l3_classes,42
+min_unique_molecules_threshold,1000
+threshold_rule,unique_molecules > 1000
+selected_l3_classes,11
+selected_activity_records,96192
+selected_unique_molecules,52207
+molecule_class_pairs,52373
+final_single_label_molecules,52207
+final_classes,11

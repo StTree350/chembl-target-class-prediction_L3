@@ -1,0 +1,12 @@
+target_class_l3,activity_records,unique_molecules,unique_targets,mean_pchembl,median_pchembl,min_pchembl,max_pchembl
+Smoothened receptor (frizzled family GPCR),1506,954,2,6.871467463479416,7.0,5.0,10.1
+GABA-A receptor,1316,939,18,7.5649620060790275,7.68,5.0,10.0
+Endoplasmic reticular retrotranslocon family,700,591,2,6.439428571428572,6.43,5.0,9.46
+Taste receptor (taste family GPCR),593,477,25,6.287740303541316,6.16,5.0,8.31
+Protein-glutamine glutamyl-transferase,793,471,7,6.192610340479193,6.11,5.0,8.4
+DNA methyltransferase,354,293,5,5.533615819209039,5.36,5.0,7.73
+Aspartic protease,252,241,8,7.157420634920635,7.03,5.0,10.3
+Protein kinase regulatory subunit,259,224,13,6.2932818532818535,6.05,5.06,9.17
+Cysteine protease,219,175,4,5.6630593607305935,5.58,5.0,8.7
+YEATS domain,298,145,4,6.544395973154362,6.58,5.04,8.85
+Ryanodine receptor,134,124,10,7.031716417910448,7.0,5.0,10.3

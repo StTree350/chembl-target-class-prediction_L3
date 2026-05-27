@@ -1,0 +1,286 @@
+target_class_l5,activity_records,unique_molecules,unique_targets,mean_pchembl,median_pchembl,min_pchembl,max_pchembl
+Serotonin receptor,51111,22531,49,7.310627653538377,7.28,5.0,11.0
+Serine protease S1A subfamily,38625,21382,78,7.175313139158575,7.22,5.0,11.0
+Tyrosine protein kinase JakB family,53658,18694,9,7.614673674009467,7.52,5.0,11.0
+Opioid receptor,46258,15467,22,7.471655713606294,7.42,5.0,11.0
+Dopamine receptor,39330,15396,22,7.173247393846936,7.08,5.0,11.0
+Aspartic protease A1A subfamily,25420,13589,28,7.1462486231313935,7.14,5.0,11.0
+Adenosine receptor,33283,13212,24,7.070565453835291,7.01,5.0,11.0
+Cannabinoid receptor,22637,11383,6,7.19306224323011,7.19,5.0,12.46
+Tyrosine protein kinase EGFR family,23051,11015,7,7.1821955663528705,7.21,5.0,11.0
+Tyrosine protein kinase Tec family,20453,10731,8,7.596077348066299,7.52,5.0,10.85
+Nuclear hormone receptor subfamily 1 group F member 3,17351,10556,2,7.1956452077690045,7.2,5.0,10.77
+Tyrosine protein kinase PDGFR family,19890,10481,10,7.149445952740071,7.21,5.0,11.0
+Tyrosine protein kinase VEGFR family,16345,10436,7,7.005762618537779,7.02,5.0,10.7
+Metabotropic glutamate receptor,15359,8953,21,6.811847125463897,6.75,5.0,10.52
+Orexin receptor,23702,8790,6,6.861878322504429,6.89,5.0,10.4
+Histamine receptor,16106,8587,16,7.50838321122563,7.59,5.0,10.85
+Prostanoid receptor,13974,8205,28,7.284760269071133,7.35,5.0,11.0
+TKL protein kinase IRAK family,10391,7699,3,7.4273679145414295,7.68,5.0,10.66
+Adrenergic receptor,20165,7190,41,7.289029506570791,7.19,5.0,11.0
+CC chemokine receptor,10783,7103,29,7.299264583140128,7.32,5.0,11.0
+Acetylcholine receptor,16408,6826,21,7.083169795221843,6.82,5.0,11.0
+Tyrosine protein kinase Src family,13454,6777,19,6.776001932510778,6.63,5.0,11.0
+Metallo protease M10A subfamily,18706,6762,29,7.159438148187748,7.14,5.0,11.0
+TKL protein kinase RAF family,14349,6432,5,7.761896299393686,7.96,5.0,10.7
+Cysteine protease C1A family,12957,6235,36,7.034599830207609,7.01,5.0,11.0
+CMGC protein kinase GSK family,9560,5810,6,6.718569037656904,6.67,5.0,10.89
+Tyrosine protein kinase FGFR family,15912,5521,8,7.424473981900452,7.57,5.0,10.0
+CAMK protein kinase PIM family,13199,5407,4,7.874666262595651,7.85,5.0,11.0
+Tyrosine protein kinase Syk family,7320,5334,4,7.189129781420765,7.24,5.0,11.0
+CXC chemokine receptor,7580,5316,19,7.050345646437995,7.01,5.0,10.7
+Tyrosine protein kinase Trk family,10415,4969,4,7.427230916946711,7.47,5.0,11.0
+EDG receptor,9573,4931,21,7.1077833490024025,7.01,5.0,11.0
+Serine protease S9B subfamily,7201,4636,9,7.164313289820859,7.19,5.0,10.52
+Tyrosine protein kinase Met family,7847,4603,5,7.3833694405505295,7.5,5.0,10.72
+Neuropeptide receptor,8219,4570,19,7.8460615646672345,7.96,5.0,11.0
+Aspartic protease A2A subfamily,6155,4527,3,8.009073923639317,8.02,5.0,11.0
+Neurokinin receptor,7301,4408,15,7.756757978359128,7.77,5.0,11.0
+Other protein kinase AUR family,7193,4276,6,7.107768663978868,7.0,5.0,11.0
+Tyrosine protein kinase Ret family,24732,4211,2,7.188775675238557,7.24,5.0,10.77
+Nuclear hormone receptor subfamily 1 group C member 3,6503,4127,3,6.652072889435646,6.51,5.0,10.74
+Nuclear hormone receptor subfamily 3 group A member 1,7318,4003,4,7.593950532932495,7.6,5.0,11.0
+Tyrosine protein kinase Axl family,7483,3986,3,7.053036215421622,6.96,5.0,11.0
+Melanocortin receptor,12037,3898,13,7.221754590014123,7.1,5.0,11.0
+TKL protein kinase RIPK family,5402,3851,6,6.875194372454647,7.0,5.0,10.96
+Cytochrome P450 3A4,4559,3745,1,5.888743145426629,5.68,5.0,10.66
+Free fatty acid receptor,5921,3741,12,6.741482857625401,6.64,5.0,10.4
+AGC protein kinase AKT family,8256,3698,5,7.110687984496123,7.1,5.0,10.7
+MCH receptor,5233,3690,6,7.363552455570419,7.47,5.0,10.47
+Atypical protein kinase PIKK family,6939,3666,4,6.890059086323678,6.5,5.0,10.4
+Vasopressin and oxytocin receptor,6990,3440,15,7.392739628040057,7.39,5.0,11.0
+Nuclear hormone receptor subfamily 3 group C member 4,6039,3378,3,6.923185957940056,6.82,5.0,11.0
+TKL protein kinase LRRK family,5483,3366,2,7.372697428415101,7.38,5.0,10.22
+Angiotensin receptor,5336,3342,10,7.672895427286357,7.72,5.0,10.9
+Metallo protease M12B subfamily,4737,3166,13,7.129698121173738,7.12,5.0,10.59
+Tyrosine protein kinase InsR family,4550,3100,7,6.957571428571429,6.92,5.0,10.7
+Nuclear hormone receptor subfamily 3 group C member 1,6285,3093,4,7.53775338106603,7.64,5.0,10.7
+Nuclear hormone receptor subfamily 1 group H member 4,3784,3000,2,6.7529651162790705,6.67,5.0,10.3
+Tyrosine protein kinase Abl family,6343,2993,4,7.5336087025067,7.6,5.0,10.82
+Serine protease S33 family,4114,2865,5,7.649713174526009,7.725,5.0,10.7
+Purine receptor,4616,2838,16,6.902530329289427,6.89,5.0,10.7
+Neuropeptide Y receptor,4548,2703,11,7.5396789797713275,7.57,5.0,11.0
+Cholecystokinin receptor,5727,2686,9,7.137588615330889,6.96,5.0,11.0
+Nuclear hormone receptor subfamily 1 group C member 1,4089,2639,5,6.478845683541208,6.31,5.0,10.59
+Cytochrome P450 19A1,4026,2619,2,6.64903129657228,6.52,5.0,11.0
+Trace amine receptor,5624,2616,7,7.494340327169274,7.68,5.0,10.0
+CMGC protein kinase CLK family,5762,2574,8,6.921841374522735,6.92,5.0,10.74
+Somatostatin receptor,6381,2557,13,7.379271274094969,7.33,5.0,11.0
+GRP-related receptor,4194,2525,12,7.483795898903195,7.5,5.0,11.0
+Endothelin receptor,4648,2509,10,7.177261187607574,7.05,5.0,11.0
+Corticotropin releasing factor receptor,3136,2492,7,7.520896045918367,7.52,5.0,9.8
+Metallo protease M1 family,3896,2359,18,7.154460985626283,7.13,5.0,10.38
+Protease-activated receptor,4233,2269,3,7.559163713678242,7.67,5.0,10.64
+Cytochrome P450 11B2,3077,2203,3,7.489229769255769,7.48,5.0,11.0
+Other protein kinase IKK family,2675,2190,3,6.983861682242991,7.0,5.0,10.22
+Nuclear hormone receptor subfamily 3 group A member 2,3236,2170,3,7.119993819530284,7.1,5.0,11.0
+Tyrosine protein kinase Fak family,2763,2158,3,7.062841114730366,7.0,5.0,10.15
+GnRH receptor,3814,2027,5,7.656735710540116,7.665,5.0,10.87
+Nuclear hormone receptor subfamily 3 group C member 3,3148,2016,4,7.221699491740788,7.165,5.0,10.7
+CK1 protein kinase CK1 family,3813,1984,8,7.127235772357724,7.0,5.0,10.47
+Cytochrome P450 2D6,2290,1969,1,5.904834061135371,5.7,5.0,10.35
+Other protein kinase PLK family,2722,1947,3,6.839617927994121,6.64,5.0,10.08
+Cytochrome P450 2C9,2094,1892,1,5.70956064947469,5.52,5.0,9.3
+Nuclear hormone receptor subfamily 1 group C member 2,2653,1748,3,6.939476064832266,6.92,5.0,10.99
+Cysteine protease C14 family,3739,1740,11,6.731663546402781,6.7,5.0,10.1
+Tyrosine protein kinase DDR family,2310,1733,2,7.030264069264069,7.12,5.0,11.0
+Cysteine protease C19 family,2520,1728,13,6.495853174603174,6.385,5.0,9.8
+Cytochrome P450 11B1,2075,1628,3,6.69867469879518,6.5,5.0,10.96
+Metallo protease M13 family,2025,1585,9,7.4228,7.45,5.0,11.0
+STE protein kinase STE11 family,2284,1561,5,7.310783712784588,7.365,5.0,10.0
+Glucagon-like peptide receptor,2265,1550,5,8.025399558498895,8.02,5.02,11.0
+Atypical protein kinase PDHK subfamily,2074,1542,4,6.747859209257474,6.87,5.0,9.3
+Cysteine protease C3A subfamily,1867,1497,4,7.691955008034279,7.62,5.0,11.0
+Bradykinin receptor,2440,1453,11,7.858827868852459,7.96,5.0,11.0
+Metallo protease M2 family,1932,1440,6,7.349047619047619,7.465,5.0,10.82
+Nuclear hormone receptor subfamily 1 group H member 3,3434,1400,2,6.679475829935934,6.6,5.0,9.22
+Tyrosine protein kinase Eph family,2886,1394,14,6.594719334719335,6.28,5.0,10.03
+Threonine protease T1A subfamily,2424,1352,14,6.753411716171617,6.605,5.0,10.1
+Other protein kinase TTK family,2237,1330,1,7.756991506481895,8.0,5.0,10.33
+STE protein kinase STE7 family,2218,1319,8,6.819990982867448,6.75,5.0,10.82
+STE protein kinase unique family,1676,1305,1,7.985286396181384,8.14,5.08,10.4
+Nuclear hormone receptor subfamily 2 group B member 1,1846,1301,3,6.912042253521126,6.9,5.0,9.7
+Glucagon receptor,1923,1291,4,7.157618304732189,7.09,5.0,10.89
+Cysteine protease C2 family,1611,1276,7,6.351527001862197,6.34,5.0,9.7
+Metallo protease M24A subfamily,1833,1272,6,6.8101691216584825,6.77,5.0,10.4
+PAF receptor,1434,1272,4,7.068779637377963,7.055,5.0,10.82
+Leukotriene receptor,1757,1242,10,7.476841206602162,7.58,5.0,10.44
+Other protein kinase NAK family,3168,1234,4,7.685902777777778,7.72,5.0,10.22
+Steroid-like ligand receptor,1883,1234,4,6.849028146574614,6.7,5.0,10.4
+Melatonin receptor,2948,1207,5,8.038310719131614,8.07,5.0,11.0
+AGC protein kinase PDK1 subfamily,1312,1111,1,6.77891006097561,6.6,5.0,9.26
+Other protein kinase WEE family,1802,1095,2,7.287164261931188,7.32,5.0,10.0
+Cytochrome P450 1A2,1225,1051,2,6.09029387755102,5.92,5.0,9.9
+Other protein kinase CK2 family,2167,989,5,6.827720350715275,6.6,5.0,10.89
+Nuclear hormone receptor subfamily 3 group C member 2,1305,973,2,6.740467432950191,6.6,5.0,10.3
+Cytochrome P450 5A1,1098,972,2,6.975892531876138,7.16,5.0,9.05
+Serine protease S28 family,1289,955,4,6.914290147401086,6.75,5.0,10.46
+AGC protein kinase SGK family,1187,954,4,7.244675652906487,7.47,5.0,9.24
+Anaphylatoxin receptor,1355,953,4,6.891129151291513,6.9,5.0,9.74
+Cytochrome P450 2C19,1034,923,1,5.7176692456479685,5.52,5.0,10.7
+Calcitonin gene-related peptide receptor,1572,849,3,8.162410941475827,8.135000000000002,5.0,11.0
+Tyrosine protein kinase Ack family,1148,839,3,6.890662020905923,6.86,5.0,9.7
+Tyrosine protein kinase Tie family,1115,823,4,6.9303318385650226,6.85,5.0,9.89
+Hydroxycarboxylic acid receptor,1433,815,6,6.668750872295883,6.64,5.0,9.02
+Other protein kinase NEK family,1119,796,9,6.485656836461126,6.18,5.0,9.7
+Cytochrome P450 17A1,1324,785,2,7.008542296072507,7.04,5.0,10.77
+CAMK protein kinase PKD family,1292,762,3,6.316191950464397,6.05,5.0,9.4
+Serine protease S10 family,755,752,1,6.204490066225166,6.08,5.0,8.7
+Cysteine protease C48 family,1496,740,5,5.428970588235294,5.365,5.0,8.19
+CAMK protein kinase RAD53 family,862,722,1,6.8264965197215774,6.9,5.0,9.2
+CAMK protein kinase DAPK family,1257,721,5,6.575592680986476,6.5,5.0,9.59
+N-formyl methionyl peptide receptor,1008,656,2,6.4337301587301585,6.3,5.0,10.52
+AGC protein kinase PKA family,943,650,7,6.5896606574761405,6.4,5.0,10.89
+Nuclear hormone receptor subfamily 1 group A member 2,887,646,2,7.303416009019166,7.22,5.0,10.72
+Serine protease S9A subfamily,864,643,7,7.26224537037037,7.28,5.0,10.7
+Nuclear hormone receptor subfamily 1 group I member 2,951,627,2,6.072124079915878,5.96,5.0,9.15
+RF amide receptor,1272,620,8,7.507735849056604,7.3,5.0,11.0
+Other protein kinase CDC7 family,704,619,1,7.466974431818182,7.43,5.0,9.9
+Calcium sensing receptor,667,607,4,6.895217391304348,6.82,5.0,10.74
+Prokineticin receptor,1244,606,4,6.722379421221865,6.57,5.01,9.69
+Neurotensin receptor,1243,606,5,7.094617860016091,6.89,5.0,11.0
+CAMK protein kinase CAMK2 family,1251,581,6,6.190767386091127,5.9,5.0,10.53
+Lysophosphatidylinositol receptor,641,569,1,5.880686427457098,5.7,5.0,9.64
+Nuclear hormone receptor subfamily 1 group I member 1,819,547,7,7.666813186813187,7.82,5.0,11.0
+AGC protein kinase PKG family,695,541,5,7.7513237410071945,7.77,5.0,10.59
+Cytochrome P450 1B1,706,539,1,7.3048866855524075,7.29,5.0,10.7
+Serine protease S8B subfamily,750,501,8,7.577893333333334,7.64,5.01,11.0
+Cytochrome P450 1A1,610,493,3,6.668852459016393,6.59,5.0,9.0
+Metallo protease M14A subfamily,624,479,9,6.966939102564102,6.95,5.0,10.6
+Cytochrome P450 4A11,478,464,1,6.880732217573222,6.92,5.03,8.28
+AGC protein kinase PKN family,585,414,3,6.444854700854701,6.2,5.0,9.7
+Cytochrome P450 4F2,412,400,1,6.435242718446602,6.395,5.0,8.52
+Metallo protease M12A subfamily,417,398,4,6.8728776978417265,6.96,5.0,10.62
+Nuclear hormone receptor subfamily 1 group A member 1,517,393,1,6.8523404255319145,6.66,5.0,10.39
+Tyrosine protein kinase Sev family,567,382,2,7.381940035273369,7.23,5.02,10.7
+CMGC protein kinase SRPK family,568,377,3,6.484647887323944,6.31,5.0,9.43
+Motilin receptor,472,370,2,7.3275,7.4,5.01,10.4
+Kynurenic acid receptor,822,367,3,6.42521897810219,6.225,5.0,9.51
+Nuclear hormone receptor subfamily 2 group B member 2,497,342,3,6.773319919517103,6.72,5.0,9.3
+Cysteine protease C18 family,366,338,1,8.122158469945356,8.19,6.18,9.15
+AGC protein kinase NDR family,734,336,4,7.577724795640327,7.77,5.03,9.23
+Nuclear hormone receptor subfamily 1 group B member 2,523,335,2,7.343977055449331,7.5,5.0,9.52
+Nuclear hormone receptor subfamily 1 group B member 3,494,332,3,7.25082995951417,7.35,5.0,10.4
+Serine protease S8A subfamily,430,328,6,6.431279069767442,5.96,5.0,10.94
+Galanin receptor,417,325,5,6.623333333333333,6.22,5.0,11.0
+CAMK protein kinase CAMK1 family,474,324,5,6.473080168776371,6.29,5.0,9.69
+CMGC protein kinase DYRK family,329,315,1,5.976474164133738,5.91,5.02,8.7
+Metallo protease M27 family,397,310,3,5.735717884130982,5.62,5.0,7.91
+Nuclear hormone receptor subfamily 1 group B member 1,468,303,3,6.93440170940171,6.995,5.0,10.0
+Cytochrome P450 2C8,313,292,1,5.629584664536741,5.5,5.0,8.6
+Nuclear hormone receptor subfamily 2 group B member 3,440,283,3,6.835613636363637,6.805,5.0,10.1
+Metallo protease M34 family,438,283,1,6.381301369863013,5.905,5.0,10.4
+Receptor tyrosine-protein phosphatase,653,281,8,7.47177641653905,7.34,5.0,11.0
+Nuclear hormone receptor subfamily 3 group B member 3,350,272,2,6.547542857142857,6.61,5.0,8.31
+Relaxin receptor,429,268,5,6.981724941724941,6.95,5.0,10.8
+Other protein kinase ULK family,580,263,5,6.667327586206897,6.35,5.0,9.1
+Other protein kinase TOPK family,269,262,1,6.098773234200744,5.9,5.0,9.3
+Tyrosine protein kinase Fer family,411,257,3,6.6989537712895375,6.44,5.06,9.69
+SLC29 Facilitative nucleoside transporter family,345,255,6,7.01231884057971,6.87,5.0,10.74
+Prolactin-releasing peptide receptor,371,247,1,7.248274932614556,7.47,5.06,8.7
+GABA-B receptor,272,239,2,7.07014705882353,7.52,5.0,8.54
+CAMK protein kinase MLCK family,371,230,5,6.3915094339622645,6.28,5.0,10.7
+Glycohormone receptor,343,221,5,6.987900874635568,7.0,5.0,10.74
+Tyrosine protein kinase Alk family,259,219,2,6.50046332046332,6.26,5.0,9.46
+Nuclear hormone receptor subfamily 3 group B member 1,258,215,1,6.642015503875969,6.484999999999999,5.01,8.7
+Other protein kinase Haspin family,235,213,1,6.800382978723404,6.73,5.09,10.72
+Serine protease S21 family,297,205,5,6.65020202020202,6.52,5.0,9.51
+Cysteine protease C13 family,238,200,2,7.419663865546219,7.275,5.03,10.0
+Gastric inhibitory polypeptide receptor,215,196,2,7.059488372093023,6.45,5.12,10.92
+Cytochrome P450 2A6,442,194,1,6.047239819004525,5.92,5.0,10.24
+Cytochrome P450 26A1,246,188,1,6.674674796747968,6.494999999999999,5.0,9.52
+CMGC protein kinase CDK family,297,186,4,6.671885521885522,6.63,5.0,8.99
+CAMK protein kinase PHk family,268,184,2,6.285223880597015,5.96,5.02,9.85
+Tyrosine protein kinase Csk family,231,183,2,6.372597402597402,6.1,5.0,9.0
+Serine protease S29 family,181,176,3,6.4498895027624314,6.19,5.0,8.7
+Calcitonin receptor,444,174,2,9.584932432432433,10.065000000000001,5.5,11.0
+Metallo protease M9B subfamily,173,173,1,6.18485549132948,5.6,5.0,8.3
+Neuromedin receptor,189,171,2,7.162169312169313,6.88,5.0,10.17
+Nuclear hormone receptor subfamily 2 group F member 2,169,169,1,5.373017751479289,5.26,5.0,8.12
+Nuclear hormone receptor subfamily 1 group I member 3,201,157,2,6.572686567164179,6.31,5.0,9.0
+Metallo protease M4 family,187,154,2,6.486096256684492,6.18,5.0,10.19
+Nuclear hormone receptor subfamily 1 group H member 1,185,145,5,6.396216216216216,6.13,5.0,9.0
+Metallo protease M19 family,147,144,2,6.47156462585034,6.62,5.0,8.3
+Cysteine protease C12 family,222,131,3,5.658783783783784,5.26,5.0,7.3
+Nuclear hormone receptor subfamily 2 group E member 3,143,130,1,5.638671328671329,5.47,5.0,7.46
+Parathyroid hormone receptor,165,129,3,7.513878787878788,7.58,5.03,10.22
+Neuromedin U receptor,430,128,4,7.802767441860465,7.955,5.0,10.54
+CAMK protein kinase DCAMK1 family,196,128,3,6.359030612244897,6.074999999999999,5.0,9.0
+Threonine protease T1B subfamily,170,123,2,6.7816470588235305,6.85,5.05,9.21
+Chemerin receptor,166,121,2,6.6446385542168676,6.55,5.05,9.0
+Vasoactive intestinal peptide receptor,158,115,3,7.515,7.125,5.0,10.7
+Cytochrome P450 21A2,125,114,1,6.118720000000001,6.08,5.0,9.15
+Cytochrome P450 51A1,161,110,7,6.5147826086956515,6.64,5.01,8.0
+Atypical protein kinase alpha family,122,110,2,5.990163934426229,5.98,5.0,7.5
+Nuclear hormone receptor subfamily 3 group B member 2,115,110,1,6.028347826086956,5.96,5.04,8.49
+Nuclear hormone receptor subfamily 1 group D member 1,134,109,1,6.326940298507462,6.21,5.06,8.22
+CAMK protein kinase TSSK family,159,106,5,6.651761006289309,6.38,5.0,10.33
+Other protein kinase TLK family,149,105,2,6.5498657718120805,6.48,5.06,8.57
+Nuclear hormone receptor subfamily 4 group A member 2,159,103,3,6.402012578616352,6.16,5.0,9.22
+Cytochrome P450 2B6,134,102,1,5.573059701492537,5.355,5.0,7.22
+Nuclear hormone receptor subfamily 4 group A member 1,120,102,1,5.92,5.72,5.0,9.94
+Nuclear hormone receptor subfamily 1 group F member 1,113,96,1,5.640530973451328,5.42,5.0,7.92
+Succinate receptor,156,94,3,6.631730769230769,6.7,5.02,8.15
+Serine protease S14 family,154,82,2,5.7272727272727275,5.6,5.01,7.0
+CX3C chemokine receptor,82,82,1,6.91719512195122,7.02,5.04,8.41
+Nuclear hormone receptor subfamily 5 group A member 2,110,81,1,6.447909090909091,6.3,5.05,9.82
+Cytochrome P450 24A1,124,73,2,6.75491935483871,6.6899999999999995,5.05,8.64
+Nuclear hormone receptor subfamily 5 group A member 1,75,69,1,6.6108,6.7,5.01,8.0
+CAMK protein kinase unique family,82,64,1,6.462073170731707,6.255,5.14,8.74
+Metallo protease M17 family,79,64,4,6.810886075949367,6.68,5.06,9.64
+Atypical protein kinase BCR family,58,58,1,6.6000000000000005,6.3,5.09,9.0
+Metallo protease M24B subfamily,80,52,4,5.9015,5.75,5.0,8.43
+Growth hormone-releasing hormone receptor,50,50,2,7.969600000000001,8.11,6.0,9.85
+CMGC protein kinase MAPK family,71,49,1,6.810845070422535,6.89,5.27,8.31
+Cysteine protease C1 family,49,46,1,7.749387755102042,7.85,5.04,8.52
+CMGC protein kinase CDKL family,82,45,4,6.5370731707317065,6.31,5.1,9.3
+Cytochrome P450 2E1,59,45,2,5.642033898305085,5.39,5.0,7.4
+CK1 protein kinase VRK family,45,43,1,7.067777777777778,7.09,6.0,7.87
+Oxoglutarate receptor,43,42,2,7.0781395348837215,7.31,5.16,8.0
+Serine protease S26A subfamily,43,38,2,6.644883720930233,6.76,5.0,9.36
+Nuclear hormone receptor subfamily 2 group E member 1,44,36,1,6.189772727272728,6.16,5.1,7.22
+SLC07 Cationic amino acid transporter/glycoprotein-associated family,44,36,4,6.286363636363637,6.1,5.02,8.4
+Tyrosine protein kinase Musk family,53,32,1,6.6435849056603775,6.52,5.22,8.51
+SLC28 Na+-coupled nucleoside transport family,41,30,4,5.616585365853658,5.54,5.0,7.21
+Cytochrome P450 2A5,46,29,1,5.521304347826087,5.39,5.0,6.52
+Other protein kinase Wnk family,37,28,3,6.190810810810811,6.03,5.0,8.4
+Nuclear hormone receptor subfamily 2 group C member 2,30,28,1,6.950666666666667,7.02,5.09,8.61
+Cytochrome P450 27B1,46,26,2,6.923478260869565,6.869999999999999,6.21,8.24
+Other protein kinase NKF4 family,26,24,1,6.493076923076923,6.205,5.27,8.7
+Cytochrome P450 3A5,39,23,1,6.130512820512821,6.08,5.07,7.68
+AGC protein kinase YANK family,53,22,3,6.155849056603773,6.0,5.1,7.89
+Other protein kinase NKF1 family,42,22,2,6.317380952380952,6.05,5.24,8.49
+AGC protein kinase MAST family,29,21,3,6.2444827586206895,6.0,5.21,7.72
+Metallo protease M14B subfamily,25,20,3,7.0264,7.21,5.24,8.7
+Protease unclassified U48 family,17,17,1,5.200588235294117,5.16,5.01,5.42
+Cytochrome P450 8A1,15,14,1,5.3806666666666665,5.4,5.05,5.7
+Serine protease S13 family,16,13,1,6.14,6.055,5.14,7.2
+Secretin receptor receptor,15,12,1,7.272,7.1,6.1,10.0
+Cytochrome P450 2C18,12,12,1,5.215,5.16,5.0,5.52
+Nuclear hormone receptor subfamily 0 group B member 1,12,12,1,5.970833333333334,5.8,5.1,6.87
+Cytochrome P450 2B1,11,11,1,5.832727272727272,5.82,5.09,7.1
+Cytochrome P450 3A1,11,11,1,5.552727272727273,5.66,5.16,5.85
+Nuclear hormone receptor subfamily 4 group A member 3,11,10,1,6.714545454545455,6.82,5.0,8.92
+Threonine protease T2 family,9,8,1,5.388888888888889,5.4,5.0,5.82
+Serine protease S1B subfamily,8,8,2,5.11625,5.09,5.0,5.38
+Cytochrome P450 2D2,7,7,1,5.932857142857143,5.72,5.14,7.03
+Cytochrome P450 7A1,7,6,2,6.012857142857143,5.9,5.62,6.71
+Metallo protease M18 family,6,6,2,5.728333333333333,5.77,5.27,6.29
+Cytochrome P450 11A1,6,5,2,5.573333333333333,5.470000000000001,5.27,6.0
+Cytochrome P450 27A1,5,5,1,5.638,5.27,5.08,7.23
+Metallo protease M20A subfamily,5,5,1,5.862,5.97,5.24,6.52
+Metallo protease M49 family,5,5,1,5.65,5.34,5.07,6.89
+Cytochrome P450 4A4,4,4,1,5.455,5.380000000000001,5.31,5.75
+Nuclear hormone receptor subfamily 0 group B member 2,4,4,1,5.75,5.8,5.1,6.3
+Cytochrome P450 2A2,4,3,1,6.199999999999999,6.199999999999999,5.97,6.43
+Nuclear hormone receptor subfamily 1 group D member 2,4,3,1,5.935,5.984999999999999,5.52,6.25
+Cytochrome P450 2C23,3,3,1,5.246666666666666,5.22,5.22,5.3
+Cysteine protease C26 family,2,2,1,9.024999999999999,9.024999999999999,9.02,9.03
+Metallo protease M48A subfamily,2,2,2,6.595,6.595,5.92,7.27
+Serine protease S6 family,2,2,1,5.145,5.145,5.01,5.28
+Serine protease S9C subfamily,2,2,1,6.5649999999999995,6.5649999999999995,5.5,7.63
+Cytochrome P450 2B11,2,1,1,6.4,6.4,6.34,6.46
+CMGC protein kinase CK subfamily,1,1,1,6.7,6.7,6.7,6.7
+Cytochrome P450 2B4,1,1,1,5.55,5.55,5.55,5.55
+Cytochrome P450 2C11,1,1,1,5.15,5.15,5.15,5.15
+Cytochrome P450 2D18,1,1,1,5.77,5.77,5.77,5.77

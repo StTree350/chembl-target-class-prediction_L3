@@ -1,0 +1,12 @@
+target_class_l3,activity_records,unique_molecules,unique_targets,mean_pchembl,median_pchembl,min_pchembl,max_pchembl
+Bromodomain,22789,10709,22,6.850629689762605,6.89,5.0,10.3
+P2X receptor,23367,10309,20,7.212441905250995,7.26,5.0,11.0
+Voltage-gated sodium channel,15191,9485,22,6.566873806859325,6.47,5.0,11.0
+Transient receptor potential channel,13746,8558,46,7.008172559289975,7.0,5.0,11.0
+Protein methyltransferase,4261,2600,11,7.444644449659704,7.56,5.0,11.0
+Serine protease,3137,2529,14,7.061326107746255,7.02,5.0,11.0
+Plant homeodomain,5383,2073,23,6.3422125208991265,6.26,5.0,10.6
+Voltage-gated calcium channel,3200,2059,20,6.590353125,6.47,5.0,10.51
+Protein Kinase,1751,1586,22,7.175608223872073,7.32,5.0,10.0
+Pore-forming toxins (proteins and peptides),1846,1394,5,6.5320205850487545,6.545,5.0,9.11
+5HT3 receptor,1521,1071,6,7.530466798159106,7.7,5.0,10.5

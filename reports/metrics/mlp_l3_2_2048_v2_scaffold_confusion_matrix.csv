@@ -1,0 +1,12 @@
+,Bromodomain,P2X receptor,Voltage-gated sodium channel,Transient receptor potential channel,Protein methyltransferase,Serine protease,Voltage-gated calcium channel,Plant homeodomain,Protein Kinase,Pore-forming toxins (proteins and peptides),5HT3 receptor
+Bromodomain,2349,4,0,3,0,6,2,6,4,0,0
+P2X receptor,2,2354,1,14,0,0,1,0,0,0,0
+Voltage-gated sodium channel,0,0,2074,8,0,1,1,0,0,1,0
+Transient receptor potential channel,9,6,9,2264,0,1,7,3,3,1,2
+Protein methyltransferase,0,0,0,0,623,0,0,0,0,0,0
+Serine protease,0,0,0,0,0,629,0,0,0,0,0
+Voltage-gated calcium channel,3,1,7,12,0,0,582,0,0,2,7
+Plant homeodomain,11,1,0,5,0,0,1,559,0,0,0
+Protein Kinase,0,0,0,0,0,0,0,0,179,0,0
+Pore-forming toxins (proteins and peptides),2,1,1,6,0,0,1,0,0,467,0
+5HT3 receptor,8,1,0,6,0,1,7,1,0,0,250

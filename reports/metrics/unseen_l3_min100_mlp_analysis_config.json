@@ -1,0 +1,55 @@
+{
+    "analysis": "unseen_l3_class_characterization_with_mlp",
+    "min_unique_molecules": 100,
+    "exclude_molecules_from_known_dataset": true,
+    "fingerprint_radius": 2,
+    "fingerprint_size": 2048,
+    "known_classes": [
+        "Bromodomain",
+        "P2X receptor",
+        "Voltage-gated sodium channel",
+        "Transient receptor potential channel",
+        "Protein methyltransferase",
+        "Serine protease",
+        "Voltage-gated calcium channel",
+        "Plant homeodomain",
+        "Protein Kinase",
+        "Pore-forming toxins (proteins and peptides)",
+        "5HT3 receptor"
+    ],
+    "runs": [
+        {
+            "model_name": "v1_random",
+            "checkpoint_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\models\\mlp_l3_2_2048_v1_best_model.pt",
+            "split_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\mlp_l3_2_2048_v1_split_assignments.csv",
+            "checkpoint_exists": true
+        },
+        {
+            "model_name": "v2_scaffold",
+            "checkpoint_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\models\\mlp_l3_2_2048_v2_scaffold_best_model.pt",
+            "split_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\mlp_l3_2_2048_v2_scaffold_split_assignments.csv",
+            "checkpoint_exists": true
+        },
+        {
+            "model_name": "v3_cluster",
+            "checkpoint_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\models\\mlp_l3_2_2048_v3_cluster_best_model.pt",
+            "split_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\mlp_l3_2_2048_v3_cluster_split_assignments.csv",
+            "checkpoint_exists": true
+        },
+        {
+            "model_name": "v4_controlled_similarity",
+            "checkpoint_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\models\\mlp_l3_2_2048_v4_controlled_similarity_best_model.pt",
+            "split_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\mlp_l3_2_2048_v4_controlled_similarity_split_assignments.csv",
+            "checkpoint_exists": true
+        }
+    ],
+    "output_files": {
+        "unseen_dataset_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\unseen_l3_min100_dataset.csv",
+        "unseen_x_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\unseen_l3_min100_2_2048_X.npy",
+        "unseen_metadata_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\unseen_l3_min100_2_2048_metadata.csv",
+        "unseen_class_stats_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\unseen_l3_min100_class_stats.csv",
+        "per_molecule_predictions_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\diagnostics\\unseen_l3_min100_mlp_per_molecule_predictions.csv",
+        "class_summary_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\unseen_l3_min100_mlp_class_summary.csv",
+        "model_comparison_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\unseen_l3_min100_mlp_model_comparison_summary.csv"
+    }
+}

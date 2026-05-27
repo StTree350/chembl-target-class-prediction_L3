@@ -1,0 +1,101 @@
+{
+    "run_name": "mlp_l3_2_2048_v3_cluster",
+    "version": "v3_cluster",
+    "created_at": "2026-05-24T15:18:38",
+    "x_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\target_class_l3_2_2048_X.npy",
+    "y_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\target_class_l3_2_2048_y.npy",
+    "metadata_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\target_class_l3_2_2048_metadata.csv",
+    "input_size": 2048,
+    "n_classes": 11,
+    "class_names": [
+        "Bromodomain",
+        "P2X receptor",
+        "Voltage-gated sodium channel",
+        "Transient receptor potential channel",
+        "Protein methyltransferase",
+        "Serine protease",
+        "Voltage-gated calcium channel",
+        "Plant homeodomain",
+        "Protein Kinase",
+        "Pore-forming toxins (proteins and peptides)",
+        "5HT3 receptor"
+    ],
+    "architecture": {
+        "hidden_layers": [
+            512,
+            256,
+            128
+        ],
+        "activation": "LeakyReLU",
+        "negative_slope": 0.01,
+        "batch_norm_after_each_hidden_layer": true,
+        "dropout": [
+            0.3,
+            0.3,
+            0.2
+        ],
+        "output_layer": 11
+    },
+    "training": {
+        "optimizer": "AdamW",
+        "learning_rate": 0.001,
+        "weight_decay": 0.0001,
+        "batch_size": 256,
+        "max_epochs": 150,
+        "early_stopping_patience": 15,
+        "early_stopping_min_delta": 1e-06,
+        "loss": "CrossEntropyLoss with class weights",
+        "primary_metric": "validation_macro_f1",
+        "scheduler": "ReduceLROnPlateau",
+        "scheduler_factor": 0.5,
+        "scheduler_patience": 5,
+        "scheduler_min_lr": 1e-06
+    },
+    "split": {
+        "split_type": "chemical_cluster_split",
+        "cluster_method": "MiniBatchKMeans",
+        "n_clusters": 500,
+        "kmeans_batch_size": 4096,
+        "kmeans_max_iter": 100,
+        "kmeans_n_init": 10,
+        "train_size_target": 0.7,
+        "validation_size_target": 0.15,
+        "test_size_target": 0.15,
+        "random_state": 27,
+        "train_samples": 36483,
+        "validation_samples": 7844,
+        "test_samples": 7880
+    },
+    "cuda": {
+        "use_cuda": true,
+        "device": "cuda:0",
+        "cuda_available": true,
+        "cuda_device_id": 0,
+        "cuda_memory_fraction": null,
+        "gpu_name": "NVIDIA GeForce RTX 4070 Laptop GPU"
+    },
+    "class_weights": [
+        0.45148876309394836,
+        0.44849714636802673,
+        0.48990195989608765,
+        0.5455891489982605,
+        1.879114031791687,
+        1.869580864906311,
+        2.754681348800659,
+        2.3758139610290527,
+        3.0795137882232666,
+        3.458432197570801,
+        4.6192708015441895
+    ],
+    "output_files": {
+        "model_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\models\\mlp_l3_2_2048_v3_cluster_best_model.pt",
+        "history_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\mlp_l3_2_2048_v3_cluster_training_history.csv",
+        "final_metrics_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\mlp_l3_2_2048_v3_cluster_test_metrics.csv",
+        "classification_report_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\mlp_l3_2_2048_v3_cluster_classification_report.csv",
+        "confusion_matrix_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\mlp_l3_2_2048_v3_cluster_confusion_matrix.csv",
+        "predictions_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\diagnostics\\mlp_l3_2_2048_v3_cluster_test_predictions.csv",
+        "split_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\data\\processed\\mlp_l3_2_2048_v3_cluster_split_assignments.csv",
+        "cluster_stats_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\mlp_l3_2_2048_v3_cluster_cluster_stats.csv",
+        "split_summary_path": "C:\\Users\\Timofei\\Desktop\\Project_3\\reports\\metrics\\mlp_l3_2_2048_v3_cluster_split_summary.csv"
+    }
+}
