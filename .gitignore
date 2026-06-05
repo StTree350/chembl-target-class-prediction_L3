@@ -1,4 +1,4 @@
-# Python-generated files
+
 __pycache__/
 *.py[oc]
 build/
@@ -6,9 +6,8 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
 .venv
 
-# Large data files to keep out of GitHub
-data/raw/chembl_target_class_activities_large.csv
-data/processed/target_class_l3_2_2048_X.npy
+data/
+reports/
+scripts/
