@@ -1,2 +1,0 @@
-input_dataset,fingerprint_type,radius,fingerprint_size,input_rows,valid_rows,invalid_rows,n_classes,x_output_path,y_output_path,metadata_output_path,elapsed_minutes
-C:\Users\Timofei\Desktop\Project_3\data\processed\target_class_l3_single_label_dataset.csv,Morgan,2,2048,52207,52207,0,11,C:\Users\Timofei\Desktop\Project_3\data\processed\target_class_l3_2_2048_X.npy,C:\Users\Timofei\Desktop\Project_3\data\processed\target_class_l3_2_2048_y.npy,C:\Users\Timofei\Desktop\Project_3\data\processed\target_class_l3_2_2048_metadata.csv,0.21316025654474893

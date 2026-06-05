@@ -1,2 +1,0 @@
-run_name,version,best_epoch,best_val_macro_f1,total_training_time_minutes,test_loss,test_accuracy,test_balanced_accuracy,test_macro_f1,test_weighted_f1,test_macro_precision,test_macro_recall,test_log_loss,test_samples
-mlp_l3_2_2048_v1,v1,45,0.9792786733688886,0.7976446111996969,0.12424850905270328,0.9846782431052093,0.9774361325628568,0.978814767816118,0.9846701627863976,0.9802206986987848,0.9774361325628568,0.07841698628376216,7832

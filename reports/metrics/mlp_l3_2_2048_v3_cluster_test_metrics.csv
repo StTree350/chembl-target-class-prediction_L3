@@ -1,2 +1,0 @@
-run_name,version,split_type,cluster_method,n_clusters,best_epoch,best_val_macro_f1,total_training_time_minutes,test_loss,test_accuracy,test_balanced_accuracy,test_macro_f1,test_weighted_f1,test_macro_precision,test_macro_recall,test_log_loss,test_samples
-mlp_l3_2_2048_v3_cluster,v3_cluster,chemical_cluster_split,MiniBatchKMeans,500,11,0.7956149874665269,0.49504110018412273,1.323665815961741,0.7491116751269036,0.695887438957977,0.7117157257907332,0.7498450903033378,0.7486425703841881,0.695887438957977,1.1228836251945125,7880
